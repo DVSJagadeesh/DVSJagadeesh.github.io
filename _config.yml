@@ -13,10 +13,9 @@ title                    : "Jagadeesh's Homepage" # Update this with the title o
 title_separator          : "-"
 name                     : &name "Dumpa Venkata Sai Jagadeesh" # Update this with your name, this is the default if not overridden by a page
 description              : &description "Jagadeesh's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://dvsj.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DVSJagadeesh/dvsj.github.io"
+url                      : "https://DVSJagadeesh.github.io"
+baseurl                  : ""
+repository               : "DVSJagadeesh/DVSJagadeesh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
