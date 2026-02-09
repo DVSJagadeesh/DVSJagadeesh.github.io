@@ -17,22 +17,4 @@ Alongside my technical work, I value clear communication and structured thinking
 
 I’m always interested in discussions and collaborations around LLM interpretability, safety, factuality, evaluation, and real world AI reliability!
 
-<div class="notice--info">
-  <h2 style="margin-top: 0;">Contact Me</h2>
-  <p>Feel free to reach out for collaborations or just a chat!</p>
-  
-  <form action="https://formspree.io/f/mwvnpljw" method="POST">
-    <fieldset style="border: none; padding: 0;">
-      <label for="name">Your Name</label>
-      <input type="text" id="name" name="name" required style="width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
-      
-      <label for="email">Your Email</label>
-      <input type="email" id="email" name="email" required style="width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
-      
-      <label for="message">Message</label>
-      <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-      
-      <button type="submit" class="btn btn--primary btn--large">Send Message</button>
-    </fieldset>
-  </form>
-</div>
+[Feel free to reach out via the contact form.](_pages/contact.md)
