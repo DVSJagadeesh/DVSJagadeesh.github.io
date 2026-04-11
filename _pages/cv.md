@@ -38,7 +38,7 @@ Machine Learning Engineer working on Large Language Models, with a focus on inte
     * Developed a Retail & Wealth tool banking application prototype utilizing React, Spring Boot, and PostgreSQL.
 
 ## Publications & Projects
-* [**Weaving Stories: using LLMs to generate historical narratives**](files/Weaving_Stories_FinalReport.pdf) (Feb 2025 - July 2025)
+* [**Weaving Stories: using LLMs to generate historical narratives**](/files/Weaving_Stories_FinalReport.pdf) (Feb 2025 - July 2025)
   * *Engineered a Beyond-Vanilla RAG system using a custom Knowledge Graph (NetworkX/GML) and Hybrid Semantic Search (FAISS) to enable multi-hop reasoning over historical narratives.*
   * *Developed sophisticated Memory Orchestration pipelines including entity-centric query expansion and NLP-driven topic extraction to provide high-quality, long-context awareness to Gemini 1.5 Pro.*
   * *Optimized the intersection of Structured Memory (Knowledge Graphs) and Unstructured Data to improve narrative faithfulness and reduce hallucinations in streaming LLM environments.*
