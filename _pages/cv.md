@@ -29,9 +29,13 @@ Machine Learning Engineer working on Large Language Models, with a focus on inte
 
 ## Professional Experience 
 * **Standard Chartered**
-  * **Apprentice- Technology** (Sept 2024 - Present)
-    * Worked on building an internal Retail & Wealth Banking (RW) Tool enabling admins to approve subscriber requests and operations teams to fetch reports, built using React and Spring Boot.
-    * Designed and integrated PostgreSQL database schemas to support efficient data retrieval.
+  * **Apprentice- Technology** (Sept 2025 - Present)
+    * Designed a Natural Language to SQL (NL2SQL) Proof of Concept (PoC) on SAP HANA Cloud aimed at reducing ad-hoc query turnaround time from 1-2 days to a few hours by eliminating Data Engineer dependency.
+    * Implemented a metadata vectorization layer using SAP's native NLP embedding model, enabling semantic mapping of user intent to database schema columns via cosine similarity ranking.
+    * Built dynamic SQL generation pipelines utilizing SQLScript stored procedures, allowing runtime query construction and execution.
+    * Evaluated scalable Text to SQL architectures incorporating LLMs via SAP AI Core for enterprise-grade query automation deployment.
+    * Coordinated release management for 10+ deployments and created data transformation procedures for dimensional restatement in Financial Reporting.
+    * Developed a Retail & Wealth tool banking application prototype utilizing React, Spring Boot, and PostgreSQL.
 
 ## Publications & Projects
 * [**Weaving Stories: using LLMs to generate historical narratives**](files/Weaving_Stories_FinalReport.pdf) (Feb 2025 - July 2025)
