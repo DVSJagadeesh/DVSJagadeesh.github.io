@@ -68,7 +68,7 @@ Currently, my research is focused at the intersection of LLM Interpretability an
 <hr>
 
 <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
-  <a href="#" onclick="window.print();return false;" class="btn btn--info" id="download-btn">
+  <a href="https://dvsj.s.gy/Jagadeesh-CV(Research)" target="_blank" class="btn btn--info" id="download-btn">
     <i class="fas fa-file-pdf"></i> Download CV
   </a>
 </div>
