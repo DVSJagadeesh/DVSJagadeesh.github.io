@@ -10,33 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## [Profile]({{ base_path }}/)
-Machine Learning Engineer working on Large Language Models, with a focus on interpretability and AI safety. My work includes building Retrieval-Augmented Generation and knowledge-guided NLP systems, along with three IEEE publications and experience designing and evaluating LLM-driven applications. I aim to develop intelligent and reliable systems that translate research into responsible real-world use. Alongside technical work, I have led professionals across corporate Toastmasters clubs, strengthening my communication and collaborative skills. 
-
-## Technical Skills
-* **Core:** Data Structures & Algorithms, Software Engineering, Agile Software Development
-* **AI/ML:** Machine Learning, Deep Learning, NLP, RAG Systems
-* **Languages:** Java, Python, C++, C
-* **Tools/Tech:** TensorFlow, SQL
-
-## Education
-* **B.Tech in Computer Science and Engineering** (Sept 2021 - July 2025)
-  * **Amrita Vishwa Vidyapeetham University**
-    * CGPA: 8.65, First Class with Distinction.
-* **Exchange Program** (Feb 2025 - July 2025)
-  * *University of Twente*
-    * Conducted research on utilizing Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to generate engaging historical narratives.
-    * Evaluated Semantic, Hybrid, and Graph-Based RAG approaches to optimize narrative coherence and mitigate hallucinations.
+Machine Learning Researcher and Engineer designing and evaluating AI solutions for enterprise environments. My work includes NLP-based query automation, LLM optimization initiatives to improve efficiency and reduce operational costs, along with building RAG and knowledge-guided NLP systems.
+Currently, my research is focused at the intersection of LLM Interpretability and AI Safety, including jailbreaking LLMs and specifically understanding why models behave unsafely, so we can make them more trustworthy. I aim to develop intelligent and reliable systems translating AI capabilities into real-world business impact.
 
 ## Professional Experience 
 * **Standard Chartered**
-  * **Apprentice- Technology** (Sept 2025 - Present)
-    * Designed a Natural Language to SQL (NL2SQL) Proof of Concept (PoC) on SAP HANA Cloud aimed at reducing ad-hoc query turnaround time from 1-2 days to a few hours by eliminating Data Engineer dependency.
+  * **Machine Learning Engineer** (Sept 2026. - Present)
+  * **Analyst, Development - Finance** (Sept 2025 - Sept 2026)
+    * Designed and developed a Natural Language-to-SQL (NL2SQL) on SAP HANA Cloud as part of an apprenticeship program, enabling business users to generate ad-hoc queries through natural language, reducing query turnaround time from 1–2 days to a few hours, and proposing a DistilBERT-based query routing layer to optimize LLM utilization.
     * Implemented a metadata vectorization layer using SAP's native NLP embedding model, enabling semantic mapping of user intent to database schema columns via cosine similarity ranking.
     * Built dynamic SQL generation pipelines utilizing SQLScript stored procedures, allowing runtime query construction and execution.
     * Evaluated scalable Text to SQL architectures incorporating LLMs via SAP AI Core for enterprise-grade query automation deployment.
     * Coordinated release management for 10+ deployments and created data transformation procedures for dimensional restatement in Financial Reporting.
     * Developed a Retail & Wealth tool banking application prototype utilizing React, Spring Boot, and PostgreSQL.
-
+  
 ## Publications & Projects
 * [**Weaving Stories: using LLMs to generate historical narratives**](/files/Weaving_Stories_FinalReport.pdf) (Feb 2025 - July 2025)
   * *Engineered a Beyond-Vanilla RAG system using a custom Knowledge Graph (NetworkX/GML) and Hybrid Semantic Search (FAISS) to enable multi-hop reasoning over historical narratives.*
@@ -52,6 +39,21 @@ Machine Learning Engineer working on Large Language Models, with a focus on inte
   * *Identified AES with RSA as the optimal multilayer encryption strategy for medical images, delivering the best decryption speed while guaranteeing Confidentiality, Integrity, and Authentication (CIA).*
 
 *(For a detailed view of my work, please visit my [Publications]({{ base_path }}/publications/) page.)*
+
+## Technical Skills
+* **Core:** Data Structures & Algorithms, Software Engineering, Agile Software Development
+* **AI/ML:** Machine Learning, Deep Learning, NLP, RAG Systems
+* **Languages:** Java, Python, C++, C
+* **Tools/Tech:** TensorFlow, SQL
+
+## Education
+* **B.Tech in Computer Science and Engineering** (Sept 2021 - July 2025)
+  * **Amrita Vishwa Vidyapeetham University**
+    * CGPA: 8.65, First Class with Distinction.
+* **Exchange Program** (Feb 2025 - July 2025)
+  * *University of Twente*
+    * Conducted research on utilizing Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to generate engaging historical narratives.
+    * Evaluated Semantic, Hybrid, and Graph-Based RAG approaches to optimize narrative coherence and mitigate hallucinations.
 
 ## Leadership & Experience
 * **Toastmasters International**
